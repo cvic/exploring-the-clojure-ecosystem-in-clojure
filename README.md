@@ -1,1 +1,2 @@
-# exploring-the-clojure-ecosystem-in-clojure
+Slides from 16.10.2017
+================
